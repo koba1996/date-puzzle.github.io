@@ -1,0 +1,21 @@
+#game {
+    height: 600px;
+    padding: 50px;
+}
+
+#board {
+    width: 600px;
+    border-spacing: 0px;
+}
+
+td {
+    border: groove;
+    border-width: 1px;
+    text-align: center;
+}
+
+.square {
+    border-color: black;
+    height: 50px;
+    width: 50px;
+}
